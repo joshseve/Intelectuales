@@ -1,0 +1,10 @@
+.cuerpo{
+	background: grey;
+}
+.titulo{
+	text-align: center;
+}
+.foto{
+	width: 500px;
+	height: 500px;
+}
