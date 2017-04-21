@@ -1,0 +1,26 @@
+#nombreErandy {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+#body {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.fotoNanys {
+  width: 30%;
+  height: 30%;
+  margin-right: 10px;
+  float: left;
+}
+.sobreErandy {
+  font-family: 'Indie Flower', cursive;
+  margin-top: 50px;
+}
+#nombreHobbiesErnady {
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  margin-top: 100px;
+}
