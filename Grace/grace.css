@@ -1,0 +1,20 @@
+.nombreGrace, .hobbiesGrace {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#fotoGrace {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 3px dotted black;
+  float: left;
+}
+
+.seccionCentro {
+  margin-left: 10%;
+}
+
+#textoGrace {
+  display: inline-block;
+}
