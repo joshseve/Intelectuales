@@ -1,0 +1,50 @@
+  .cuerpo{
+    background-color: #d4d1d1;
+  }
+  .ordena {
+    background-color: black;
+  }
+  .barra {
+    font-size: xx-large;
+    color: white;
+    text-shadow: 0px -13px 3px white;
+  }
+  .lista {
+
+    padding: 30px;
+
+  }
+  .fotota{
+    width: 300px;
+    height: 300px;
+    box-shadow: 4px 2px 20px 2px black;
+    margin: 50px;
+  }
+  .parrafo1 {
+    width: 600px;
+    text-align: justify;
+    height: 200px;
+
+    float: right;
+    margin-top: 80px;
+    margin-right: 250px;
+  }
+  .pasatiempos{
+    text-align: center;
+  }
+  .icono {
+    width: 50px;
+    height: 50px;
+    margin: 30px;
+  }
+  .home {
+    width: 50px;
+    height: 50px;
+    margin: 30px;
+    margin-left: 600px;
+  }
+.boton{
+	width: 70px;
+    height: 70px;
+     margin-left: 600px;
+}
