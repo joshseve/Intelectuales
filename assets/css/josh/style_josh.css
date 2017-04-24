@@ -1,0 +1,42 @@
+body {
+  background-image: url("https://www.solofondos.com/wp-content/uploads/2016/10/Wallpapers-fondo-rojo.jpeg");
+}
+
+header {
+  font-family: "Broadway";
+  color: white;
+  font-size: 300%;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  font-family: "Tahoma";
+  font-size: 20px;
+  color: #black;
+  background-color: white;
+}
+
+.perfil {
+  float: right;
+  width: 185px;
+  height: 264px;
+}
+
+.yoMera {
+  display: inline-block;
+}
+
+#google {
+  width: 500px;
+  margin-left: 150px;
+}
+
+#foto {
+  height: 400px;
+  margin-left: 500px;
+}
+
+footer {
+  margin-left: 950px;
+}
