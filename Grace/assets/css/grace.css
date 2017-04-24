@@ -1,3 +1,22 @@
+.regreso {
+  background-color: #008199;
+  padding: 18px 35px;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+#home {
+  color: #FFF;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
+
+.regreso:hover {
+  background-color: #C43D7C;
+}
+
 #nombreGrace {
   font-family: 'Quicksand', sans-serif;
   text-align: center;
