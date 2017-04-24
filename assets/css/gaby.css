@@ -23,9 +23,32 @@
   font-size: 28px;
 }
 
+#morado {
+  color: purple;
+  font-weight: bold;
+}
+
 #tituloHobbies {
   font-size: 35px;
 }
 
 .hobbiesGaby {
+  height: 300px;
+  width: 350px;
+}
+
+#idRegresar {
+  background-color: purple;
+  border: none;
+  color: white;
+  padding: 17px 80px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 18px;
+}
+
+#idRegresar:hover {
+    background-color: plum;
+    color: white;
 }
