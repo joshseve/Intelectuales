@@ -1,0 +1,44 @@
+#cuerpo{
+  position:relative;
+  background:#ffafdf;
+}
+
+.titulo{
+  text-align:center;
+  font-family: 'Josefin Slab', serif;
+}
+
+.fotosil{
+  float:left;
+  width:500px;
+  margin-right:10px;
+}
+
+#datos{
+  padding:20px;
+}
+
+.blabla{
+  margin-right:20px;
+  font-family: 'Lora', serif;
+  text-align:justify;
+}
+
+.seccion-abajo{
+  clear:both;
+  margin-top:50px;
+}
+
+#hobbies{
+
+}
+
+.dibujos{
+  position:absolute;
+  margin-left:220px;
+}
+
+.icono{
+  width:100px;
+  margin-left:50px;
+}
