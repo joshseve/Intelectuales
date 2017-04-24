@@ -1,0 +1,58 @@
+#nombreErandy {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  background-color: #EFFDC8;
+}
+
+#bodyErandy {
+  background: #FCC1CA;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*foto de la coder */
+img.fotoNanys {
+  width: 30%;
+  height: 30%;
+  margin-right: 10px;
+  float: left;
+}
+.sobreErandy {
+  font-family: 'Indie Flower', cursive;
+  font-size: 140%;
+  font-weight: bold;
+  margin-top: 50px;
+}
+#nombreHobbiesErnady {
+  background-color: #99FFCB;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  margin-top: 40px;
+}
+#h4Erandy {
+  background-color: #FFAE7C;
+  margin-left: 10%;
+  width: 40%;
+}
+.fotoHobbiesErandy{
+  width: 20%;
+  height: 20%;
+  float: left;
+  display: inline-block;
+  margin-left: 4%;
+}
+.hobbiesErandy {
+  margin-left: 15%;
+}
+.botonErandy {
+  clear: both;
+  text-align: center;
+}
+#botonRegresarErandy {
+  width: 20%;
+  height: 10%;
+  background-color: #76CF8D;
+  margin-top: 10px;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+}
