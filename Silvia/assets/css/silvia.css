@@ -1,0 +1,57 @@
+#cuerpo{
+  background-image:	url("../img/fondo.jpg");
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  /*background-position: 30px;*/
+}
+
+.titulo{
+  margin-top:200px;
+  margin-left:500px;
+  font-family: 'Josefin Slab', serif;
+}
+
+.fotosil{
+  float:left;
+  width:500px;
+  margin:37px;
+
+}
+
+#datos{
+  /*border:1px solid black;*/
+  padding:10px 10px 80px 10px;
+}
+
+.blabla{
+  font-family: 'Lora', serif;
+  font-size:22px;
+  text-align:justify;
+}
+
+.blabla p{
+  margin:25px;
+}
+
+.seccion-abajo{
+  clear:both;
+  /*border:1px solid black;*/
+  margin-top:10px;
+}
+
+#hobbies{
+  margin-top:-150px;
+  margin-left:30px;
+}
+
+.dibujos{
+  margin-top:10px;
+  margin-left:150px;
+}
+
+.icono{
+  width:100px;
+  margin-left:60px;
+}
