@@ -55,3 +55,22 @@
   width:100px;
   margin-left:60px;
 }
+
+.push{
+  background:#41c43a;
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 0px solid #000000;
+  margin-left:550px;
+  margin-top: 50px;
+  font-size:20px;
+}
+
+.link{
+  text-decoration: none;
+}
+
+.link:hover{
+    background-color: yellow;
+}
