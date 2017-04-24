@@ -43,7 +43,7 @@ span {
   background-color: #EEAFDD;
   float: left;
   height: 15px;
-  width: 15px;
+  width: 10%;
   margin: 45px;
   padding: 45px;
 }
@@ -53,4 +53,8 @@ span {
     background-repeat: no-repeat;
     background-image: url(assets/img/intelectuales.png);
     height: 175px;
+}
+
+#intelec {
+  margin-left: 480px;
 }
